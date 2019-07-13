@@ -1,0 +1,18 @@
+html, body{
+    background-image: url("../images/background.png");
+    background-size: 100%;
+    box-sizing: border-box;
+}
+main{
+    color: #cacaca;
+}
+.character{
+    background-color: #cacaca;
+    color: #000000;
+    cursor: pointer;
+}
+header{
+   /* border-bottom: 3px solid #cacaca;*/
+    background-color: #cacaca;
+}
+
